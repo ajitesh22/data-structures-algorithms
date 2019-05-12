@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
-
 using namespace std;
-
 #define max(a,b) a>=b?a:b
-
 const int N=100000;
 
 
